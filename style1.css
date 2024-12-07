@@ -1,0 +1,49 @@
+header{
+    background-image:linear-gradient(to top, rgba(0, 0, 0, 0.026), rgba(0,0,0,0.2)),url(d5.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1 {
+  font-family: "Birthstone", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2{
+  
+    font-family: "Jua", serif;
+    font-weight: 400;
+    font-style: normal;
+  
+}
+
+h3{
+  font-family: "Jua", serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+#1 {
+  background-image:url(1.jpg);
+  
+}
+a{
+  font-family: "Jua", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+p{
+  font-family: "Jua", serif;
+    font-weight: 400;
+    font-style: normal;
+   
+
+}
+
+mark{
+  background-color: #FFD9EC;
+}
